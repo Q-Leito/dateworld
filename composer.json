@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ],
+    "require": {
+        "bootflat/bootflat": "dev-master",
+        "psr/log": "1.0.0"
+    }
+}
